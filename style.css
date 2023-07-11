@@ -277,9 +277,9 @@ body {
 /*      End Social Media Section   /
 /*      start contact section  */
 .contact-container {
+    height: 850px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    height: 100vh;
     margin-bottom: 50px;
 }
 .contact-title {
